@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yuw5vrIAAAAJ&hl=de"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "hgrosselindemann@geomar.de"
+  researchgate     : "https://www.researchgate.net/profile/Hendrik-Grosselindemann"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Hennich98"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
