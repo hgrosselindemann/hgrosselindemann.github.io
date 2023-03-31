@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hendrik Großelindemann"
+title                    : "Hendrik Grosselindemann"
 title_separator          : "-"
-name                     : &name "Hendrik Großelindemann"
+name                     : &name "Hendrik Grosselindemann"
 description              : &description "personal description"
 url                      : https://hgrosselindemann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hendrik Großelindemann"
+  name             : "Hendrik Grosselindemann"
   avatar           : "profile.png"
   bio              : "Climate Physics Master Student at the Geomar Helmholtz Center for Ocean Research"
   location         : "Kiel, Germany"
