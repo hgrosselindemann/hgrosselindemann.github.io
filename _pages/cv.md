@@ -42,4 +42,6 @@ Research experience
 
 Service and leadership
 ======
-* 
+* Oct 2017 - now: member of the student council
+  * student representative in exam board, section of ocean sciences of the faculty, convent of faculty of mathematical and natural sciences, professoral appointment committee
+  * organised various events for our students
