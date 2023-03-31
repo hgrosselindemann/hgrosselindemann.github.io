@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics of the Earth System, Christian-Albrechts-University Kiel, 2021
-* M.S. in Climate Physics, Geomar Helmholtz Center for Ocean Research Kiel, (expected 2024)
+* M.S. in Climate Physics, Geomar Helmholtz Center for Ocean Research Kiel, 2024 (expected)
 
 Research experience
 ======
