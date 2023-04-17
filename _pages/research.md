@@ -13,10 +13,10 @@ I have investigated marine heatwaves and their depth structure on the Northeast 
 
 I applied an eddy tracking algorithm to high-resolution model data in the Gulf Stream region. The used algorithm was the pyeddytracker, which uses an SSH-contour approach combined with geostrophic velocities. The goal was to compare the models ability to resolve mesoscale eddies to AVISO satellite altimetry. AVISO provides an eddy tracking product based on the same algorithm. The main outcome was that the resolution in AVISO is too low to properly detect eddies which led to oversized and weird structures. The algorithm itself is a good tool to detect and track eddies in model data with high enough resolution.
 
-# Surface Currents around Taiwan
+# Radar Surface Currents
 
 I looked at surface current data around Taiwan based on CODAR high-frequency radar measurments. The focus was on their structure and spatio-temporal variability as well as the relation to the windfield and satellite-based geostrophic velocities. I applied spectral analysis and statistical approaches like EOF analysis, vector-cross correlation and coherence. Tides are very present oround the whole island, while the dominating frequency varies regionally between diurnal and semidiurnal. The seasonal varying monsoon winds have a strong forcing in the Taiwan Strait and lead to current reversals. The eastern side is dominated by Kuroshio Current all year round.
 
-# Lagrangian Particle Tracking for Agulhas Leakage Transport
+# Lagrangian Particle Tracking
 
 I will apply the lagrangian particle tracking algorithm, oceanparcels, to a multi-centenniel high-resolution climate model to investigate the importance of Agulhas Leakage transport for the AMOC and the global overturning circulation.
