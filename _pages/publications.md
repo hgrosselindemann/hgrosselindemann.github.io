@@ -12,3 +12,4 @@ author_profile: true
   1. EGU General Assembly 2022, Oral Presentation, Marine Heatwaves and their depth structure on the Northeast US continental shelf
   2. Eddy-Wave-Meeting 2023, attended
   3. Ocean Annual Meeting Taiwan 2023, Poster Presentation, Analyses of surface currents around Taiwan derived from the TORI HF-Radar Observations
+  4. CESM Workshop 2023, attended
