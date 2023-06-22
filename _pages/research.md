@@ -19,4 +19,4 @@ I looked at surface current data around Taiwan based on CODAR high-frequency rad
 
 # Lagrangian Particle Tracking
 
-I will apply the lagrangian particle tracking algorithm, oceanparcels, to a multi-centenniel high-resolution climate model to investigate the importance of Agulhas Leakage transport for the AMOC and the global overturning circulation.
+I am currently applying the lagrangian particle tracking algorithm, oceanparcels, to a multi-centenniel high-resolution climate model (CESM) to investigate the Agulhas Leakage transport. We are interested in its general long-term internal variability and how it is driven and/or connected to other components of the climate system. Ultimatly, we want to examine its relation to the AMOC and the global overturning circulation and how this might change in the future.
