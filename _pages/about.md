@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hendrik Grosselindemann"
+title: "Hendrik Großelindemann"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
