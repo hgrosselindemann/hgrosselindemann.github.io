@@ -34,8 +34,10 @@ Research experience
   * analysed surface currents around Taiwan measured by High-Frequency-Radars
 
 * Apr 2023 - Apr 2023: Research cruise LGD2304 on RV Legend in the South China Sea
+  * did CTD profiles and mooring recovery and deployment
 
 * Jun 2023 - Sep 2023: Research Visit at the National Center of Atmospheric Research in Boulder, CO, USA
+  * investigating long-term variability of the Agulhas Leakage transport
 
 * Apr 2024 - May 2024: Research cruise SO305 on FS Sonne in the Bay of Bengal
   
