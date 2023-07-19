@@ -13,3 +13,4 @@ author_profile: true
   2. Eddy-Wave-Meeting 2023, attended
   3. Ocean Annual Meeting Taiwan 2023, Poster Presentation, Analyses of surface currents around Taiwan derived from the TORI HF-Radar Observations
   4. CESM Workshop 2023, attended
+  5. CESM Tutorial 2023, attended
