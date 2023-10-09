@@ -15,3 +15,4 @@ author_profile: true
   4. CESM Workshop 2023, attended
   5. CESM Tutorial 2023, attended
   6. Los Alamos National Laboratory, 2023, Invited Oral Presentation, Long-term variability of Agulhas Leakage and its embedding into the global overturning
+  7. Woods Hole Oceanographic Institution, 2023, Oral Presentation, Long-term variability of Agulhas Leakage and its embedding into the global overturning
