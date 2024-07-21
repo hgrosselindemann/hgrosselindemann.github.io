@@ -7,6 +7,8 @@ author_profile: true
 
 # Manuskripts
   1. Hendrik Grosselindemann, Svenja Ryan, Caroline C. Ummenhofer, Torge Martin, Arne Biastoch, 2022, Marine Heatwaves and their depth structure on the Northeast US continental shelf, Frontiers in Climate, [View](https://doi.org/10.3389/fclim.2022.857937)
+  2. Hendrik Grosselindemann, Frederic Castruccio, Gokhan Danabasoglu, Arne Biastoch, 2024, Long-term Variability and Trends of Agulhas Leakage and its Impacts on the Global Overturning, EGU Ocean Sciences (submitted)
+
 
 # Conferences and Talks
   1. EGU General Assembly 2022, Oral Presentation, Marine Heatwaves and their depth structure on the Northeast US continental shelf
