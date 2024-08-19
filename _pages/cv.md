@@ -22,12 +22,17 @@ Research experience
   * investigated marine heatwaves and their depth structure on the Northeast US continental shelf
   * applied an eddy tracking algorithm on model data in the Gulf Stream region to compare to satellite-derived eddy characteristics
   * performed lagrangian particle tracking on high-resolution model data around South Africa
+ 
+* Oct 2020 - Oct 2020: Research cruise AL529 on the FS Alkor in the Baltic Sea
+  * did CTD profiles and mooring deployment
+  * [cruise report](https://doi.org/10.3289/CR_AL529)
 
 * Jul 2021 - Sep 2021: Internship at Woods Hole Oceanographic Institution, Woods Hole, MA, USA
   * investigated marine heatwaves and their depth structure on the Northeast US continental shelf
 
 * Aug 2022 - Sep 2022: Research cruise M184 on the FS Meteor in the Labrador Sea
   * did CTD profiles, mooring recovery and deployment, underway-CTD, mooving vessel profiler
+  * [cruise report](https://www.ldf.uni-hamburg.de/meteor/wochenberichte/wochenberichte-meteor/m181-m190/scr-m184.pdf)
 
 * Mar 2023 - Apr 2023: Internship at the Taiwan Ocean Research Institute, Kaohsiung, Taiwan
   * analysed surface currents around Taiwan measured by High-Frequency-Radars
@@ -40,10 +45,10 @@ Research experience
 
 * Apr 2024 - May 2024: Research cruise SO305 on FS Sonne in the Bay of Bengal
   * did CTD profiles, mooring deployment, microstructure profiles and salinometer measurements
-  
+  * [cruise report](https://doi.org/10.48433/cr_so305)
 
 Service and leadership
 ======
-* Oct 2017 - now: member of the student council
+* Oct 2017 - Aug 2024: member of the student council
   * student representative in exam board, section of ocean sciences of the faculty, convent of faculty of mathematical and natural sciences, professoral appointment committee
   * organised various events for our students
