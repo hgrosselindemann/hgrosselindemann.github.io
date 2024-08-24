@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+# Marine Carbon Dioxide Removal
+
+In my PhD, I will investiagte ocean-based methods for carbon dioxide removal using a climate model. Potential questions are about scalability, side-effects and detectability of the impact of a certain technique.
+
 # Marine Heatwaves
 
 I have investigated marine heatwaves and their depth structure on the Northeast US continental shelf using a high resolution ocean model (VIKING20X, nemo-configuration). I validated the model against satellite surface measurements as well as against a long-term temperature and velocity transect across the gulf stream path. This ensured us that we can rely on the model output to do analysis about the regional ocean dynamics. Marine heatwaves have been detected and  investigated about their spatial and temporal characteristics with a focus on the vertical structure. We found various depth structures, with some heatwaves not having a surface signal while large anomalies at depth. The highest anomalies were found at depth at the shelf break with up to 7°C. These events could be linked to warm core rings of the Gulf Stream. This shows the importance of the local dynamics for marine heatwave formation. More information can be found in Grosselindemann and Ryan et al. 2022 (Publications).
@@ -19,4 +23,4 @@ I looked at surface current data around Taiwan based on CODAR high-frequency rad
 
 # Lagrangian Particle Tracking
 
-I am currently applying the lagrangian particle tracking algorithm, oceanparcels, to a multi-centenniel high-resolution climate model (CESM) to investigate the Agulhas Leakage transport. We are interested in its general long-term internal variability and how it is driven and/or connected to other components of the climate system. Ultimatly, we want to examine its relation to the AMOC and the global overturning circulation and how this might change in the future.
+I worked on the Agulhas Leakage Transport and its connection to the global overturning circulation in a high-resolution configuration of the Community Earth System Model (CESM, iHESP project). We investigated the internal variability of the system, its connection to the wind field as a driving mechanism, how it responds to other ocean circulations and how it impatcs the Atlantic Meridional Overturning Circulation (AMOC). We first examined these in a pre-industrial controlled climate and the how the system might change in a warming climate. The Agulhas Leakage was found to be driven by the winds across time-scales, but does not show robust internal variability on time-scales longer than a couple of years due to its chaotic nature. The strengh of the Agulhas Current as the source current impacts the strength of the Agulhas Leakage. The Agulhas Leakage itself impacts the AMOC by Rossby-Wave or eddy dynamics, but also through the salt transport into the Atlantic Ocean which plays a role in AMOC stability. In the future, the Agulhas Leakage tends to increase, but a generally slowing overturning circulation dampens this signal. The AMOC in particular slows down in this simulation and the increasing salt transport could be relevant for a potential AMOC collapse. More information can be found in Grosselindemann et al. 2024 (Publications).
