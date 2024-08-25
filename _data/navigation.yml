@@ -2,12 +2,12 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "Outreach"
-    url: /outreach/
-    
+  
   - title: "Publications"
     url: /publications/
+  
+  - title: "Other"
+    url: /other/
     
   - title: "CV"
     url: /cv/
