@@ -13,3 +13,5 @@ author_profile: true
   * presentation to public audience
 
 # Teaching
+
+* teaching assistant in Physics I and II for Bachelor students
