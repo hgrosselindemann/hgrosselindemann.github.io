@@ -7,7 +7,7 @@ author_profile: true
 
 # Marine Carbon Dioxide Removal
 
-In my PhD, I will investiagte ocean-based methods for carbon dioxide removal using a climate model. Potential questions are about scalability, side-effects and detectability of the impact of a certain technique.
+In my PhD, I am investigating ocean-based methods for carbon dioxide removal using a full earth system model. We currently apply large scale ocean alkalinity enhancement to the surface ocean from 2026 onwards until 2500. Our focus is on the spatio-temporal evolution of additional carbon uptake and the efficiency of the approach. We also examine large scale climate effects such on circulation or warming patterns. 
 
 # Marine Heatwaves
 
