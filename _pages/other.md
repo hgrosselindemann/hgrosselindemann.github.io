@@ -11,6 +11,9 @@ author_profile: true
   * Kieler Woche 2022
   * Marine Heatwaves, what they are and why they are dangerous?
   * presentation to public audience
+* Nacht der Forschung
+  * University of Bern
+  * Can the ocean solve our climate problem? 
 
 # Teaching
 
