@@ -18,3 +18,4 @@ author_profile: true
 # Teaching
 
 * teaching assistant in Physics I and II for Bachelor students
+  * Mechnics, thermodynamics, electrodynamics and optics 
