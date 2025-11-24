@@ -8,8 +8,7 @@ author_profile: true
 # Manuskripts
   1. Hendrik Grosselindemann, Svenja Ryan, Caroline C. Ummenhofer, Torge Martin, Arne Biastoch, 2022, Marine Heatwaves and their depth structure on the Northeast US continental shelf, Frontiers in Climate, [View](https://doi.org/10.3389/fclim.2022.857937)
   2. Hendrik Grosselindemann, Frederic Castruccio, Gokhan Danabasoglu, Arne Biastoch, 2025, Long-term variability and trends in the Agulhas Leakage and its impacts on the global overturning, EGU Ocean Sciences, [View](https://doi.org/10.5194/os-21-93-2025)
-  3. Hendrik Grosselindemann, Friedrich A. Burger, Thomas L. Frölicher, in preparation, Potential of Ocean Alkalinitz Enhancement in Climate Stabilization Scenarios 
-
+  3. Hendrik Grosselindemann, Friedrich A. Burger, Thomas L. Frölicher, in preparation, The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales
 
 # Conferences and Talks
   1. EGU General Assembly 2022, Oral Presentation, Marine Heatwaves and their depth structure on the Northeast US continental shelf
